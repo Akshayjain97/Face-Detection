@@ -1,5 +1,5 @@
 # Face-Detection
-##Some Prerequisites
+## Some Prerequisites
 Please install the YOLOv8 model from Ultralytics and start playing
 ```
 pip install ultralytics
@@ -8,8 +8,8 @@ pip install ultralytics
 checkout https://github.com/ultralytics/ultralytics for more info...
 
 ## usage:
-run the file using appropriate command line argument : 1 for Person Detection,  2 for Face detection
-change the directories accordingly.
+run the file using appropriate command line argument : 1 for Person Detection,  2 for Face detection.
+Change the directories accordingly.
 
 
 
